@@ -1,0 +1,1 @@
+This file exists only on the `e2e-merge-probe` branch. Its pull request into `e2e-merge-target` is the target of the gated-github-mcp merge-permission check, which expects GitHub to refuse the merge because the test token lacks *Contents: write*.
